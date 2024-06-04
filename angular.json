@@ -25,22 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "assets/css/plugins/bootstrap-grid.css",
-              "assets/css/plugins/fancybox.min.css",
-              "assets/css/plugins/swiper.min.css",
-              "assets/css/plugins/bootstrap-grid.css"
+              "src/styles.css"
+              
             ],
             "scripts": [
-              "src/assets/js/plugins/jquery.min.js",
-              "src/assets/js/plugins/swup.min.js",
-              "src/assets/js/plugins/swiper.min.js",
-              "src/assets/js/plugins/fancybox.min.js",
-              "src/assets/js/plugins/gsap.min.js",
-              "src/assets/js/plugins/smooth-scroll.js",
-              "src/assets/js/plugins/ScrollTrigger.min.js",
-              "src/assets/js/plugins/ScrollTo.min.js"
-
+             
             ]
           },
           "configurations": {
